@@ -1,4 +1,4 @@
-# Roll For Iniative
+# Roll For Initiative
 Inspired by [this](https://twitter.com/bubblewire/status/1261316606900068352) tweet by [bubblewire](https://twitter.com/bubblewire),
 this tiny script will generate two numbers between 1 and 20, and write the lesser of the two to your "initiative" file.
 
