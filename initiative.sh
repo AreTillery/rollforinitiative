@@ -4,7 +4,7 @@
 file=~/initiative
 
 # If it doesn't exist, create it. Leaving out this step makes cron throw an error when executing
-if [ ! -e "$initiative" ] ; then
+if [ ! -e "$file" ] ; then
 	touch "$file"
 fi
 
