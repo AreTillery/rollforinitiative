@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "$1" == "wall" ]; then
+if [ "$1" != "wall" ]; then
 	# File to which to write your initiative result
 	file=~/initiative
 
